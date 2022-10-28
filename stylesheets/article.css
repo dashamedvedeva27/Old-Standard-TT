@@ -1,0 +1,802 @@
+/*block1*/
+
+
+.block1 h1 {
+  display: block;
+  font-size: 190px;
+  font-weight: bold;
+  left:105px;
+  top:1100px;
+  position: absolute;
+}
+
+.block1 h2 {
+  display: block;
+  font-size: 135px;
+  font-weight: bold;
+  left:415px;
+  top:1140px;
+  position: absolute;
+}
+
+.задник img  {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 37px;
+    left: 65px;
+  }
+
+.линия1 img  {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     width: 1213px;
+     height: 1095px;
+     top: 204px;
+     left: 66px;
+  }
+
+.линия2 img  {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     width: 1023px;
+     height: 5.px;
+     top: 540px;
+     left: 65px;
+  }
+
+.парабола img  {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 254px;
+    left: 192px;
+  }
+  .block1 h3 {
+    display: block;
+    font-size: 130px;
+    font-weight:bold;
+    left:87px;
+    top:60px;
+    position: absolute;
+  }
+
+  .block1 h4 {
+    display: block;
+   font-size: 530px;
+   font-weight: normal;
+   font-style:italic;
+   left:542px;
+   top:520px;
+   position: absolute;
+ }
+
+ .block1 h5 {
+   display: block;
+   font-size: 70px;
+   font-weight: bold;
+   left:1090px;
+   top:574px;
+   position: absolute;
+   color: #A32A22;
+ }
+
+ .block1 h6 {
+   display: block;
+   font-size: 70px;
+   font-weight: bold;
+   left:246px;
+   top:243px;
+   position: absolute;
+   color: #D9D9D9;
+ }
+
+ .block1 h7 {
+   display: block;
+   font-size: 130px;
+   font-weight: bold;
+   font-style: italic;
+   left:910px;
+   top:1030px;
+   position: absolute;
+   color: #D9D9D9;
+ }
+
+ .block1 h8 {
+   display: block;
+   font-size: 130px;
+   font-weight: bold;
+   font-style: italic;
+   left:535px;
+   top:1340px;
+   position: absolute;
+   color: black;
+ }
+
+
+/*block2*/
+
+.block2 p {
+  display: block;
+ width: 1004;
+ height: 237;
+ font-size: 39px;
+ font-weight: normal;
+ left:69px;
+ top:1475px;
+ position: absolute;
+ color: #D9D9D9;
+ line-height: 47px;
+}
+
+
+.алфавит {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 1840px;
+    left: 41px;
+}
+
+
+/*block3*/
+
+
+.линия3 img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 1790px;
+    left: 325px;
+}
+
+.ластик img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 3155px;
+    left: 50px;
+}
+
+.карандаш img {
+  position: absolute;
+      display: block;
+      margin: 0 auto;
+      top: 3200px;
+      left: 0px;
+}
+
+.линейка img {
+  position: absolute;
+      display: block;
+      margin: 0 auto;
+      top: 3570px;
+      left: 0px;
+}
+
+.транспортир img {
+  position: absolute;
+      display: block;
+      margin: 0 auto;
+      top: 3414px;
+      left: 810px;
+}
+
+.сетка img {
+  position: absolute;
+      display: block;
+      margin: 0 auto;
+      top: 3785px;
+      left: 34px;
+}
+
+.круг img {
+  position: absolute;
+       display: block;
+       margin: 0 auto;
+       top: 4115px;
+       left: 688px;
+}
+
+.треугольники img {
+  position: absolute;
+      display: block;
+      margin: 0 auto;
+      top: 4410px;
+      left: 90px;
+}
+
+.h1 {
+  display: block;
+    font-size: 580px;
+    font-weight: normal;
+    left:50px;
+    top:3800px;
+    position: absolute;
+    color: #D9D9D9;
+    z-index:100;
+}
+
+.h2 {
+  display: block;
+      font-size: 650px;
+      font-weight: normal;
+      font-style: italic;
+      left:710px;
+      top:3939px;
+      position: absolute;
+      color: #D9D9D9;
+      z-index:100;
+}
+
+.h3 {
+  display: block;
+    font-size: 650px;
+    font-weight: normal;
+    left:700px;
+    top:3280px;
+    position: absolute;
+    color: #D9D9D9;
+}
+
+.h4 {
+  display: block;
+    font-size: 730px;
+    font-weight: normal;
+    left:160px;
+    top:4150px;
+    position: absolute;
+    color: #D9D9D9;
+    z-index:100;
+}
+
+.один img {
+  position: absolute;
+        display: block;
+        margin: 0 auto;
+        top: 2995px;
+        left: 40px;
+}
+
+.точка img {
+  position: absolute;
+      display: block;
+      margin: 0 auto;
+      top: 2975px;
+      left: 195px;
+}
+
+.два img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 2990px;
+    left: 350px;
+}
+
+.н1 img {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     top: 2975px;
+     left: 500px;
+}
+
+.а1 img {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     top: 2996px;
+     left: 659px;
+}
+
+.ч img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 3008px;
+    left: 810px;
+}
+
+.е img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 2975px;
+    left: 966px;
+}
+
+.р img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 3010px;
+    left: 1120px;
+}
+
+.т img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 3145px;
+    left: 350px;
+}
+
+.а2 img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 3190px;
+    left: 500px;
+}
+
+.н2 img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 3168px;
+    left: 658px;
+}
+
+.и img {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     top: 3225px;
+     left: 810px;
+}
+
+.я img {
+  position: absolute;
+    display: block;
+    margin: 0 auto;
+    top: 3150px;
+    left: 968px;
+}
+
+
+/*block4*/
+
+
+.задникязыки img {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     top: 4840px;
+     left: 88px;
+}
+
+.весы1 img {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     top: 5187px;
+     left: 110px;
+}
+
+.весы2 img {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     top: 5058px;
+     left: 635px;
+}
+
+.весы3 img {
+  position: absolute;
+      display: block;
+      margin: 0 auto;
+      top: 5700px;
+      left: 1059px;
+}
+
+.весы4 img {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     top: 5700px;
+     left: 862px;
+}
+
+.весы5 img {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     top: 5700px;
+     left: 540px;
+}
+
+.весы6 img {
+  position: absolute;
+      display: block;
+      margin: 0 auto;
+      top: 5825px;
+      left: 245px;
+}
+
+.весы7 img {
+  position: absolute;
+     display: block;
+     margin: 0 auto;
+     top: 5830px;
+     left: 60px;
+}
+
+.подставка img {
+  position: absolute;
+       display: block;
+       margin: 0 auto;
+       top: 5050px;
+       left: 317px;
+}
+
+.block4 h1 {
+  display: block;
+     font-size: 260px;
+     font-weight: normal;
+     font-style: italic;
+     left:360px;
+     top:4905px;
+     position: absolute;
+     color: #D9D9D9;
+     z-index:100;
+     transform:rotate(-13.5deg);
+}
+
+.block4 h2 {
+  display: block;
+    font-size: 190px;
+    font-weight: bold;
+    left:210px;
+    top:5647px;
+    position: absolute;
+    color: black;
+    z-index:100;
+  }
+
+.block4 h3 {
+  display: block;
+    font-size: 180px;
+    font-weight: normal;
+    left:640px;
+    top:5525px;
+    position: absolute;
+    color: #D9D9D9;
+    z-index:100%;
+}
+
+.block4 h4 {
+  display: block;
+    font-size: 130px;
+    font-weight: normal;
+    left:580px;
+    top:6028px;
+    position: absolute;
+    color: #D9D9D9;
+    z-index:100;
+  }
+
+
+/*block5*/
+
+.сетка2 img {
+  position: absolute;
+       display: block;
+       margin: 0 auto;
+       top: 6258px;
+       left: 30px;
+}
+
+.кран img {
+  position: absolute;
+       display: block;
+       margin: 0 auto;
+       top: 6315px;
+       left: 698px;
+}
+
+.кирпичик img {
+  position: absolute;
+         display: block;
+         margin: 0 auto;
+         top: 6826px;
+         left: 868px;
+}
+
+.скобки img {
+  position: absolute;
+       display: block;
+       margin: 0 auto;
+       top: 6195px;
+       left: 1023px;
+}
+
+.цифры img {
+  position: absolute;
+       display: block;
+       margin: 0 auto;
+       top: 6405px;
+       left: 95px;
+}
+
+.block5 h1 {
+  display: block;
+  font-size: 140px;
+  font-weight: normal;
+  left:140px;
+  top:6914px;
+  position: absolute;
+  color: black;
+  z-index:100;
+  }
+
+.block5 h2 {
+  display: block;
+ font-size: 67px;
+ font-weight: bold;
+ left:78px;
+ top:6733px;
+ position: absolute;
+ color: black;
+ z-index:100;
+  }
+
+.block5 h3 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:127px;
+  top:6733px;
+  position: absolute;
+  color: black;
+  z-index:100;
+  }
+
+.block5 h4 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:178px;
+  top:6733px;
+  position: absolute;
+  color: black;
+  z-index:100;
+  }
+
+.block5 h5 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:227px;
+  top:6733px;
+  position: absolute;
+  color: black;
+  z-index:100;
+  }
+
+.block5 h6 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:274px;
+  top:6733px;
+  position: absolute;
+  color: black;
+  z-index:100;
+  }
+
+.block5 h7 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:325px;
+  top:6733px;
+  position: absolute;
+  color: black;
+  z-index:100;
+  }
+
+.block5 h8 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:382px;
+  top:6728px;
+  position: absolute;
+  color: black;
+  z-index:100;
+}
+
+.block5 h9 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:255px;
+  top:6829px;
+  position: absolute;
+  color: black;
+  z-index:100;
+}
+
+.block5 h10 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:315px;
+  top:6829px;
+  position: absolute;
+  color: black;
+  z-index:100;
+}
+
+.block5 h11 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:370px;
+  top:6829px;
+  position: absolute;
+  color: black;
+  z-index:100;
+}
+
+.block5 h12 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:415px;
+  top:6829px;
+  position: absolute;
+  color: black;
+  z-index:100;
+}
+
+.block5 h13 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:465px;
+  top:6829px;
+  position: absolute;
+  color: black;
+  z-index:100;
+}
+
+.block5 h14 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:510px;
+  top:6829px;
+  position: absolute;
+  color: black;
+  z-index:100;
+}
+
+.block5 h15 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:570px;
+  top:6829px;
+  position: absolute;
+  color: black;
+  z-index:100;
+}
+
+.block5 h16 {
+  display: block;
+  font-size: 67px;
+  font-weight: bold;
+  left:640px;
+  top:6829px;
+  position: absolute;
+  color: black;
+  z-index:100;
+}
+
+
+/*block6*/
+
+.ластик2 img {
+  position: absolute;
+        display: block;
+        margin: 0 auto;
+        top: 7450px;
+        left: 380px;
+}
+
+.линейка2 img {
+  position: absolute;
+       display: block;
+       margin: 0 auto;
+       top: 7271px;
+       left: 0px;
+}
+
+.калькулятор img {
+  position: absolute;
+       display: block;
+       margin: 0 auto;
+       top: 7460px;
+       left: 50px;
+}
+
+.block6 h1 {
+  display: block;
+  font-size: 43px;
+  font-weight: normal;
+  left:526px;
+  top:7818px;
+  position: absolute;
+  color: #D9D9D9;
+  z-index:100;
+  }
+
+.block6 h2 {
+  display: block;
+  font-size: 43px;
+  font-weight: normal;
+  left:605px;
+  top:7868px;
+  position: absolute;
+  color: #D9D9D9;
+  z-index:100;
+  }
+
+.block6 h3 {
+  display: block;
+  font-size:430px;
+  font-weight: bold;
+  left:1085px;
+  top:7095px;
+  position: absolute;
+  color: #D9D9D9;
+  z-index:100;
+  }
+
+.block6 h4 {
+  display: block;
+  font-size:370px;
+  font-weight: bold;
+  left:950px;
+  top:7645px;
+  position: absolute;
+  color: #D9D9D9;
+  z-index:100;
+  transform:rotate(-90deg);
+  }
+
+.block6 h6 {
+  display: block;
+  font-size:320px;
+  font-weight: bold;
+  left:770px;
+  top:7485px;
+  position: absolute;
+  color: #D9D9D9;
+  z-index:100;
+  transform:rotate(90deg);
+  }
+
+.block6 h7 {
+  display: block;
+  font-size: 450px;
+  font-weight: bold;
+  left:1023px;
+  top:7425px;
+  position: absolute;
+  color: #D9D9D9;
+  z-index:100;
+  transform: rotate(180deg)
+  }
+
+.подстава img {
+  position: absolute;
+   display: block;
+   margin: 0 auto;
+   top: 7090px;
+   left: 520px;
+  }
